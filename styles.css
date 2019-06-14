@@ -1,12 +1,18 @@
-body {
-    color: goldenrod;
+.body { 
+    
     background-color: dodgerblue;
     border: 2px solid dimgray;
+}
+div {
+    margin: 70px;
+    border: 1px solid #4CAF50;
+  }
 
-    div {
-        padding-top: 100px;
-        padding-right: 80px;
-        padding-bottom: 80px;
-        padding-left: 100px;
-      }
-    }
+  div {
+    padding: 25px 50px 75px 100px;
+  }
+  </style>
+  </head>
+  <body>
+  
+  <div>STL</div>
