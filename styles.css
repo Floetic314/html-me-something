@@ -1,4 +1,4 @@
-.body { 
+body { 
     
     background-color: dodgerblue;
     border: 2px solid dimgray;
@@ -8,11 +8,51 @@ div {
     border: 1px solid #4CAF50;
   }
 
-  div {
-    padding: 25px 50px 75px 100px;
-  }
-  </style>
-  </head>
-  <body>
   
-  <div>STL</div>
+  #special {
+      padding: 25px 50px 75px 100px;
+    }
+
+ #love {
+    text-shadow: 2px 2px;
+    font-family: myFirstFont;
+    src: url(sansation_light.woff);
+    }
+
+      .button {
+        background-color: #4CAF50;
+        border: none;
+        color: white;
+        padding: 15px 32px;
+        text-align: center;
+        text-decoration: none;
+        display: inline-block;
+        font-size: 16px;
+        margin: 4px 2px;
+        cursor: pointer;
+        {border-radius: 50%;
+
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+.dot {
+  height: 25px;
+  width: 25px;
+  background-color: #bbb;
+  border-radius: 50%;
+  display: inline-block;
+}
+</style>
+
+
+<div style="text-align:center">
+  <h1>!!!</h1>
+  <span class="dot"></span>
+  <span class="dot"></span>
+  <span class="dot"></span>
+  <span class="dot"></span>
+</div>
+
+</body>
+</html> 
+
+      }
