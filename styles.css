@@ -15,7 +15,7 @@ div {
 
  #love {
     text-shadow: 2px 2px;
-    font-family: myFirstFont;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     src: url(sansation_light.woff);
     }
 
