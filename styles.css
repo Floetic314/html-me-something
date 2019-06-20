@@ -2,6 +2,7 @@ body {
     
     background-color: dodgerblue;
     border: 2px solid dimgray;
+    background-image: url("img/stl skyline.jpg")
 }
 div {
     margin: 70px;
@@ -12,13 +13,27 @@ div {
   #special {
       padding: 25px 50px 75px 100px;
       font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+      color: white
     }
+  #stlshawty {
+    padding: 25px 50px 75px 100px;
+  }
 
+  
   #love {
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    fop {
+ color: black;
+}nt-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     }
 
-      
+  p {
+      color: white;
+     }
+
+h1 {
+  color: white;
+}
+
 </body>
 </html> 
 
